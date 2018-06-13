@@ -1,0 +1,4 @@
+/Users/alexey/Documents/reps/googletest/googletest/BUILDS/CMakeFiles/rebuild_cache.dir
+/Users/alexey/Documents/reps/googletest/googletest/BUILDS/CMakeFiles/edit_cache.dir
+/Users/alexey/Documents/reps/googletest/googletest/BUILDS/CMakeFiles/gtest_main.dir
+/Users/alexey/Documents/reps/googletest/googletest/BUILDS/CMakeFiles/gtest.dir
